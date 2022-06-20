@@ -572,9 +572,9 @@ img {
   margin-right: 70px;
 }
 
-.footer-item:last-child {
+/* .footer-item:last-child {
   margin-left: auto;
-}
+} */
 
 .footer-title {
   display: block;
