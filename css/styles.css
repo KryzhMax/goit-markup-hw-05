@@ -671,7 +671,6 @@ img {
 }
 .thumb-overlay {
   position: relative;
-  display: block;
   overflow: hidden;
 }
 
